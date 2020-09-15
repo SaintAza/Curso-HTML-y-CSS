@@ -1,0 +1,17 @@
+p{
+    color: black;
+    font-size: 30xp;
+}
+
+/*Clase */
+.parrafo{
+
+    color: cornflowerblue;
+}
+
+/*ID*/
+
+#texto {
+        color: darkgoldenrod;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
