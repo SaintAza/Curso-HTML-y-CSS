@@ -37,6 +37,5 @@ h1{
 footer{
     width: 100vw;;
     height: 15vh;
-    var(--secondary-color)
+    background-color: var(--secondary-color);    
 }
-
